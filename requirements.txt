@@ -1,0 +1,6 @@
+# Minimal runtime packages (install with: pip install -r requirements.txt)
+numpy
+opencv-python
+Pillow
+ultralytics
+streamlit
